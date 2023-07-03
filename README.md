@@ -1,16 +1,22 @@
-### Hi there 👋
+<!-- Add your banner image here -->
+![woutvandesompele.be banner image](https://media.graphassets.com/bas8GnnERjWM43LGeOr7)
 
-<!--
-**Astrowout/Astrowout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm [Wout](https://woutvandesompele.be) 👋
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the technologies and tools I'm proficient in:
+
+- Programming Languages: TypeScript, Next.js, Tailwind...
+
+Feel free to explore my repositories for more projects!
+
+## 📫 Get in Touch
+
+- Website: [woutvandesompele.be](https://woutvandesompele.be)
+- LinkedIn: [Wout Vandesompele](https://www.linkedin.com/in/wout-vandesompele/)
+- Email: [wout.workspace@gmail.com]
+
+Let's connect and collaborate on interesting projects together!
+
+<!-- Add any additional sections or badges you want to showcase -->

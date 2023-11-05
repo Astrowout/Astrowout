@@ -1,5 +1,5 @@
 <!-- Add your banner image here -->
-![woutvandesompele.be banner image](https://media.graphassets.com/bas8GnnERjWM43LGeOr7)
+![astrowout.space banner image](https://media.graphassets.com/o8hH6KHIQmqnxEBvKwa3)
 
 # Hi there, I'm [Wout](https://astrowout.space) 👋
 

@@ -1,7 +1,7 @@
 <!-- Add your banner image here -->
 ![woutvandesompele.be banner image](https://media.graphassets.com/bas8GnnERjWM43LGeOr7)
 
-# Hi there, I'm [Wout](https://woutvandesompele.be) 👋
+# Hi there, I'm [Wout](https://astrowout.space) 👋
 
 ## 🔧 Technologies & Tools
 

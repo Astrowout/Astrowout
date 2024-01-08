@@ -13,7 +13,7 @@ Feel free to explore my repositories for more projects!
 
 ## 📫 Get in Touch
 
-- Website: [woutvandesompele.be](https://astrowout.space)
+- Website: [astrowout.space](https://astrowout.space)
 - LinkedIn: [Wout Vandesompele](https://www.linkedin.com/in/wout-vandesompele/)
 - Email: [wout.workspace@gmail.com]
 
